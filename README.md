@@ -1,5 +1,5 @@
 # roboFinalLab
 
 Code inspired by:  
-https://www.youtube.com/watch?list=PLQVvvaa0QuDdttJXlLtAJxJetJcqmqlQq&v=CJMCoAsK-h0
+https://pythonprogramming.net/canny-edge-detection-gradients-python-opencv-tutorial/
 https://www.pyimagesearch.com/2014/11/24/detecting-barcodes-images-python-opencv/
